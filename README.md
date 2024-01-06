@@ -12,13 +12,13 @@
 
 ## Introduction
 
-You've got a friend in need! Your friend Andy recently misplaced all his toys!
+You've got a friend in need! Your friend Andy recently misplaced all their toys!
 Let's write an app that helps Andy keep track of them. For this lab, you will
 need to pull together everything you've learned about manipulating the DOM,
 responding to events, and communicating with the server. Specifically, you will
 need to:
 
-1. Access the list of toys from an API (mocked using JSON Server) and render
+1. ✅ Access the list of toys from an API (mocked using JSON Server) and render
    each of them in a "card" on the page
 2. Hook up a form that enables users to add new toys. Create an event listener
    so that, when the form is submitted, the new toy is persisted to the database
